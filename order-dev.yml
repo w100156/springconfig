@@ -17,4 +17,4 @@ product:  # 应用的名称
   ribbon:
     NFLoadBalancerRuleClassName: com.netflix.loadbalancer.RandomRule
 env:
-    dev22
+    dev222
