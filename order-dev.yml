@@ -9,6 +9,8 @@ spring:
   jpa:
     show-sql: true
     generate-ddl: true
+  rabbitmq:
+    addresses: 192.168.99.100        
 eureka:
   client:
     service-url:
